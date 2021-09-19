@@ -18,7 +18,7 @@ function crearUsuario() {
       saludar(){
       return "Hola, mi nombre es "+ this.nombre;
     }
-    } return Usuario;
+    }  return Usuario;
   }
 
 function agregarMetodoPrototype(Constructor) {
