@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+}
+.thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: black;
+	padding: 50px;
+
+}
+
+.spanId {
+	color: red;
+	size: 18px;
+	margin: 58px;
+}
